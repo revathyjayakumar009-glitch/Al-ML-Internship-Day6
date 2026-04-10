@@ -1,6 +1,7 @@
 # Al-ML-Internship-Day6
 🧠 1. Steps in Problem Solving
 Understand the problem
+
 👉 Know input, output, conditions
 Break into smaller steps
 👉 Divide complex problem into simple parts
